@@ -1,0 +1,56 @@
+mode: is used with nominal data.
+mean: the most frequent used.
+median : works best in data with outliers && data that can be ordered.
+
+
+Types of Distributions: 1)Normal Distribution     2)Binomial Distribution    3)Poisson Distribution     
+                        4)Exponential Distribution     5)Uniform Distribution     6)Skewed Distribution      7)Beta Distribution
+
+
+
+
+distribution:refers to the way values of a variable are spread out or dispersed in a dataset
+density: the amount of mass or quantity of a substance per unit volume
+
+
+
+Convenience sampling: is a non-probability sampling technique where the researcher selects individuals who are easy to reach or readily available
+Quota sampling: is a non-probability sampling method where the researcher divides the population into subgroups based on certain characteristics and then sets a target number for each subgroup
+Judgmental sampling: also known as purposive or selective sampling, involves the researcher using their judgment to select participants who they believe will provide the most relevant information for the study
+Systematic sampling: is a probability sampling technique where every nth member of the population is selected after a random start
+
+
+
+A T-test is a statistical test used to determine whether there is a significant difference between two sets of data
+Paired t-test is a type of T-test that is used when the data is paired, meaning that each data point is associated with a partner data point
+ARIMA (AutoRegressive Integrated Moving Average) is a statistical model that is used to forecast future values of a time series
+Z-test is a statistical test that is used to determine whether a sample mean is significantly different from a known population mean
+ANOVA (Analysis of Variance) is a statistical test that is used to compare the means of three or more groups. It is commonly used to determine whether there are significant differences between the means of different groups
+
+
+
+how to turn any data into normal distibution
+1-Identify the Distribution Type
+2-Assess Skewness and Kurtosis
+3-Apply Transformation Techniques
+4-Assess Normality
+5-Iterate if Necessary
+
+
+
+
+types of events:
+1-Simple Events
+2-Compound Events
+3-Mutually Exclusive Events
+4-Independent Events
+5-Conditional Events
+6-Random Events
+
+
+
+
+
+
+
+
